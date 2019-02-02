@@ -4927,6 +4927,7 @@ react-hot-loader@^3.0.0-beta.6:
 react-photonkit@^0.4.1:
   version "0.4.1"
   resolved "https://registry.yarnpkg.com/react-photonkit/-/react-photonkit-0.4.1.tgz#84ed6248e03031e742070ac0c68de8af3f6e3b1c"
+  integrity sha1-hO1iSOAwMedCBwrAxo3orz9uOxw=
 
 react-proxy@^3.0.0-alpha.0:
   version "3.0.0-alpha.1"
